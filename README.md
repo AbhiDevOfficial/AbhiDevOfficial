@@ -25,11 +25,11 @@
 </p>
 
 <p>
-<a href="https://instagram.com/_abhi.76_"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/instagram.svg" width="50" height="50"></a>
+<a href="https://instagram.com/_abhi.dev_"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/instagram.svg" width="50" height="50"></a>
 </p>
 
 <p>
-<a href="https://telegram.me/abhinav_76"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/telegram.svg" width="50" height="50"></a>
+<a href="https://telegram.me/AbhiDev"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/telegram.svg" width="50" height="50"></a>
 </p>
 
  ------
