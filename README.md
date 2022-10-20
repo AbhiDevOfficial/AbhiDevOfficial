@@ -1,6 +1,6 @@
 ### Hello I am Abhinav 👋 
 
-<img align="center" src="https://github-cardname.caliph.my.id/api?name=ABHI&description=Hi,%20i%27m%20abhinav.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/AbhiDevOfficial&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@_abhi.76_&github=AbhiDevOfficial&pattern=ticTacToe&colorPattern=%23eaeaea&site=Thank%20You%20for%20visiting."/>
+<img align="center" src="https://github-cardname.caliph.my.id/api?name=ABHI&description=Hi,%20i%27m%20abhinav.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/AbhiDevOfficial&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@_abhi.dev_&telegram=@AbhiDev&github=@AbhiDevOfficial&pattern=ticTacToe&colorPattern=%23eaeaea&site=Thank%20You%20for%20visiting."/>
 
 ------
 
